@@ -1,0 +1,11 @@
+{
+  "name": "create-timtest",
+  "version": "0.0.1",
+  "description": "Test npm create command",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TimFromKrim",
+  "license": "ISC"
+}
